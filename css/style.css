@@ -1,0 +1,44 @@
+body{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+nav{
+    background-color: rgb(126, 48, 3);
+    padding: 25px;
+    text-align: center;
+    font-size: large;
+}
+
+a:visited, a:link, a:hover, a:active{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(172, 172, 20);
+    width: auto;
+    padding: 7px;
+    border-radius: 20px;
+    border-color: black;
+}
+footer{
+    border-top: 2px sienna dashed;
+    margin-top: 50%;
+}
+
+.rendomidezet{
+    text-align: center;
+}
+
+.cim{
+    margin-top: 100px;
+}
